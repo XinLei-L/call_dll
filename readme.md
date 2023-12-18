@@ -17,7 +17,7 @@
 
   https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0
 
-  ![dotnet](D:\call_dll\images\dotnet.png)
+  ![dotnet](.\images\dotnet.png)
 
   
 
