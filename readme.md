@@ -17,7 +17,7 @@
 
   https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0
 
-  ![dotnet](.\images\dotnet.png)
+  <img src=".\images\dotnet.png">
 
   
 
