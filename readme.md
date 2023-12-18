@@ -17,7 +17,7 @@
 
   https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0
 
-  ![1702017244534](C:\Users\Acer\AppData\Roaming\Typora\typora-user-images\1702017244534.png)
+  ![dotnet](D:\call_dll\images\dotnet.png)
 
   
 
