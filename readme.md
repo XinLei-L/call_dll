@@ -17,6 +17,7 @@
 
   https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0
 
+  ![1702017244534](C:\Users\Acer\AppData\Roaming\Typora\typora-user-images\1702017244534.png)
 
   
 
@@ -39,12 +40,11 @@
 - test.cpp
 
   调用MyLibrary.dll库的Add接口，实现两个整数相加
-
+  
   对test.cpp进行编译，生成执行文件my_cpp_program
-
+  
   ```shell
   g++ -o my_cpp_program test.cpp -I /usr/include/mono-2.0 -lmono-2.0
   ```
-
   
-
+  
